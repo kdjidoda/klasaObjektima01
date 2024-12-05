@@ -1,0 +1,14 @@
+C:\Users\Korisnik\source\repos\klasaObjekti002\bin\Debug\net8.0\klasaObjekti002.exe
+C:\Users\Korisnik\source\repos\klasaObjekti002\bin\Debug\net8.0\klasaObjekti002.deps.json
+C:\Users\Korisnik\source\repos\klasaObjekti002\bin\Debug\net8.0\klasaObjekti002.runtimeconfig.json
+C:\Users\Korisnik\source\repos\klasaObjekti002\bin\Debug\net8.0\klasaObjekti002.dll
+C:\Users\Korisnik\source\repos\klasaObjekti002\bin\Debug\net8.0\klasaObjekti002.pdb
+C:\Users\Korisnik\source\repos\klasaObjekti002\obj\Debug\net8.0\klasaObjekti002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\source\repos\klasaObjekti002\obj\Debug\net8.0\klasaObjekti002.AssemblyInfoInputs.cache
+C:\Users\Korisnik\source\repos\klasaObjekti002\obj\Debug\net8.0\klasaObjekti002.AssemblyInfo.cs
+C:\Users\Korisnik\source\repos\klasaObjekti002\obj\Debug\net8.0\klasaObjekti002.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\klasaObjekti002\obj\Debug\net8.0\klasaObjekti002.dll
+C:\Users\Korisnik\source\repos\klasaObjekti002\obj\Debug\net8.0\refint\klasaObjekti002.dll
+C:\Users\Korisnik\source\repos\klasaObjekti002\obj\Debug\net8.0\klasaObjekti002.pdb
+C:\Users\Korisnik\source\repos\klasaObjekti002\obj\Debug\net8.0\klasaObjekti002.genruntimeconfig.cache
+C:\Users\Korisnik\source\repos\klasaObjekti002\obj\Debug\net8.0\ref\klasaObjekti002.dll
